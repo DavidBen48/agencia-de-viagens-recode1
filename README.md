@@ -54,6 +54,8 @@ Caso queira clonar este projeto e rodá-lo em sua máquina, siga os passos abaix
 
 4. **Agora basta abrir o arquivo `index.html`** em seu navegador favorito e explorar o site!
 
+5. Build and Deployiment: https://davidben48.github.io/agencia-de-viagens-recode1/
+
 ---
 
 📌 **Observação:** Caso deseje modificar ou adicionar novas funcionalidades, recomendamos utilizar um editor de código como **VS Code** e instalar **Node.js** para futuras implementações JavaScript.
