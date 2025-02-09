@@ -8,20 +8,21 @@ O projeto é organizado da seguinte maneira:
 
 ```
 / agencia-de-viagens
-│── /css               # Arquivos de estilização (Bootstrap e CSS personalizado)
-│── /js                # Arquivos JavaScript (para funcionalidades futuras)
-│── /images            # Imagens utilizadas no site
-│── /database          # Modelagem do banco de dados e script SQL
-│    ├── db.sql        # Script de criação do banco de dados
-│    ├── modelagem.png # Diagrama de modelagem do banco de dados
-│── index.html         # Página inicial do site
-│── pacotes.html       # Página com pacotes de viagem
-│── sobre.html         # Página sobre a empresa
-│── cadastro.html      # Página de cadastro de usuários
-│── login.html         # Página de login dos usuários
-│── redirecionamento.html # Tela intermediária de escolha entre login ou cadastro
-│── LICENSE            # Licença do projeto
-│── README.md          # Documentação do projeto
+│── /css                   # Arquivos de estilização (Bootstrap e CSS personalizado)
+│── /js                    # arquivo javascript
+|    ├── pacotes.js        # dinâmica criada para o arquivo "pacotes.html"
+│── /images                # Imagens utilizadas no site
+│── /database              # Modelagem do banco de dados e script SQL
+│    ├── db.sql            # Script de criação do banco de dados
+│    ├── modelagem.png     # Diagrama de modelagem do banco de dados
+│── index.html             # Página inicial do site
+│── pacotes.html           # Página com pacotes de viagem
+│── sobre.html             # Página sobre a empresa
+│── cadastro.html          # Página de cadastro de usuários
+│── login.html             # Página de login dos usuários
+│── redirecionamento.html  # Tela intermediária de escolha entre login ou cadastro
+│── LICENSE                # Licença do projeto
+│── README.md              # Documentação do projeto
 ```
 
 ## 🛠️ Como o Site foi Desenvolvido?
