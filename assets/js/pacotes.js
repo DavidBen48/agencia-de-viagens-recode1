@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const pacotes = [
     { nome: "Paris", img: "../images/img1.jpeg", resumo: "Descubra a Cidade Luz e seus encantos únicos!", valor: 5000 },
     { nome: "Maldivas", img: "../images/img2.jpeg", resumo: "Relaxe no paraíso com águas cristalinas!", valor: 7000 },
-    { nome: "Nova York", img: "../images/img3.jpeg", resumo: "Explore a cidade que nunca dorme!", valor: 6000 },
+    { nome: "Nova York", img: "../images/img3.jpeg", resumo: "Explore a cidade da Estátuda da Liberdade!", valor: 6000 },
     { nome: "Roma", img: "../images/img4.jpeg", resumo: "7 dias na cidade do amor com passeios guiados.", valor: 5500 },
     { nome: "Rio de Janeiro", img: "../images/img5.jpeg", resumo: "5 dias de luxo e descanso nas praias paradisíacas.", valor: 4500 },
     { nome: "Bariloche", img: "../images/img6.jpeg", resumo: "6 dias de aventura na neve com belas paisagens.", valor: 5800 }
